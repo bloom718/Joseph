@@ -1,5 +1,5 @@
 {
-  "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bloom718/Joseph/refs/heads/main/ai-zhineng6.jar"
+  "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bloom718/Joseph/refs/heads/main/ai-zhineng6.jar",
   "sites": [
     {
       "name": "🔞萝北视频",
@@ -10,7 +10,6 @@
       "quickSearch": 1,
       "changeable": 0,
       "group": "🔞 成人专区",
-      "jar": "./ai-zhineng6.png",
       "ext": {
         "uid": "nwqtkaba"
       }
